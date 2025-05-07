@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0x722122df12d4e14e13ac3b6895a86e84145b6967",
+    "name": "Tornado Cash: 100 ETH",
+    "type": "mixer"
+  },
+  {
+    "address": "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b",
+    "name": "Tornado Cash: 10 ETH",
+    "type": "mixer"
+  },
+  {
+    "address": "0xd96f2b1c14db8458374d9aca76e26c3d18364307",
+    "name": "Tornado Cash: 1 ETH",
+    "type": "mixer"
+  },
+  {
+    "address": "0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d",
+    "name": "Tornado Cash: 0.1 ETH",
+    "type": "mixer"
+  },
+  {
+    "address": "0x169ad27a470d064dede56a2d3ff727986b15d52b",
+    "name": "Tornado Cash: 0.01 ETH",
+    "type": "mixer"
+  },
+  {
+    "address": "0x905b63fff465b9ffbf41dea908ceb12478ec7601",
+    "name": "Tornado Cash Router",
+    "type": "mixer"
+  },
+  {
+    "address": "0xa160cdab225685da1d56aa342ad8841c3b53f291",
+    "name": "Tornado Cash Governance",
+    "type": "mixer"
+  },
+  {
+    "address": "0xf60dd140cff0706bae9cd734ac3ae76ad9ebc32a",
+    "name": "Tornado Cash: Nova",
+    "type": "mixer"
+  },
+  {
+    "address": "0x58e8dcc13be9780fc42e8723d8ead4cf46943df2",
+    "name": "Tornado Cash: Relayer Registry",
+    "type": "mixer"
+  },
+  {
+    "address": "0x8589427373d6d84e98730d7795d8f6f8731fda16",
+    "name": "Tornado Cash: Miner",
+    "type": "mixer"
+  }
+] 
