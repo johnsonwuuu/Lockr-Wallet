@@ -1,26 +1,15 @@
 # Lockr Wallet
-
+FINAL PROJECT FOR NETWORK SECURITY
 A secure and user-friendly cryptocurrency wallet built with Next.js, featuring real-time price tracking, transaction management, and robust security features.
 
 ## Features
 
-- 🔐 Secure wallet creation and management
+- 🔐 Wallet management
 - 💰 Real-time cryptocurrency price tracking
 - 📊 Transaction history and management
-- 🔑 Private key encryption and secure storage
-- 🌐 Support for multiple cryptocurrencies
-- 📱 Responsive design for desktop and mobile
+- 📱 Responsive design for desktop
 - 🔄 Real-time price updates
 - 🛡️ Advanced security measures
-
-## Tech Stack
-
-- **Frontend Framework**: Next.js 14
-- **Styling**: Tailwind CSS
-- **State Management**: React Context
-- **Data Storage**: Local Storage with encryption
-- **Price Data**: CoinGecko API
-- **Security**: Web3 libraries, encryption utilities
 
 ## Prerequisites
 
@@ -53,31 +42,6 @@ Before you begin, ensure you have installed:
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
-## Usage
-
-1. **Create a New Wallet**
-   - Click on "Create New Wallet"
-   - Follow the security prompts
-   - Safely store your recovery phrase
-
-2. **Import Existing Wallet**
-   - Click on "Import Wallet"
-   - Enter your recovery phrase
-   - Follow the verification steps
-
-3. **Managing Your Wallet**
-   - View your balance and portfolio
-   - Send and receive cryptocurrencies
-   - Track transaction history
-   - Monitor real-time prices
-
-## Security Features
-
-- Client-side encryption of private keys
-- Secure storage of sensitive data
-- No private keys stored on servers
-- Session timeout for security
-- Optional 2FA support
 
 ## Development
 
