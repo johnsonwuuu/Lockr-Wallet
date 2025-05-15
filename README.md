@@ -1,5 +1,4 @@
 # Lockr Wallet
-FINAL PROJECT FOR NETWORK SECURITY \
 Demo Vid: https://www.youtube.com/watch?v=Ak1PWQyjdGY \
 A secure and user-friendly cryptocurrency wallet built with Next.js, featuring real-time price tracking, transaction management, and robust security features.
 
