@@ -4,12 +4,12 @@ A secure and user-friendly cryptocurrency wallet built with Next.js, featuring r
 
 ## Features
 
-- 🔐 Wallet management
-- 💰 Real-time cryptocurrency price tracking
-- 📊 Transaction history and management
-- 📱 Responsive design for desktop
-- 🔄 Real-time price updates
-- 🛡️ Advanced security measures
+- Wallet management
+- Real-time cryptocurrency price tracking
+- Transaction history and management
+- Responsive design for desktop
+- Real-time price updates
+- Advanced security measures
 
 ## Prerequisites
 
